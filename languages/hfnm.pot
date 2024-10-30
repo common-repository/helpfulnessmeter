@@ -1,0 +1,156 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: HelpfulnessMeter\n"
+"POT-Creation-Date: 2023-05-06 10:49+0400\n"
+"PO-Revision-Date: 2023-05-06 10:49+0400\n"
+"Last-Translator: Clain <ludovic.clain@gmail.com>\n"
+"Language-Team: Clain <ludovic.clain@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: helpfulnessmeter.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: helpfulnessmeter.php:46
+msgid "Was this helpful?"
+msgstr ""
+
+#: helpfulnessmeter.php:47
+msgid "Yes"
+msgstr ""
+
+#: helpfulnessmeter.php:48
+msgid "No"
+msgstr ""
+
+#: helpfulnessmeter.php:49
+msgid "Thanks for your positive feedback!"
+msgstr ""
+
+#: helpfulnessmeter.php:50
+msgid "Thanks for your negative feedback!"
+msgstr ""
+
+#: helpfulnessmeter.php:64
+msgid "Please"
+msgstr ""
+
+#: helpfulnessmeter.php:64
+msgid "fill in the options"
+msgstr ""
+
+#: helpfulnessmeter.php:65
+msgid "in order to use HelpfulnessMeter."
+msgstr ""
+
+#: helpfulnessmeter.php:80
+msgid "Settings"
+msgstr ""
+
+#: helpfulnessmeter.php:206
+msgid "helpful"
+msgid_plural "helpful"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpfulnessmeter.php:208
+msgid "not helpful"
+msgid_plural "not helpful"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpfulnessmeter.php:255
+msgid "Statistics have been reset."
+msgstr ""
+
+#: helpfulnessmeter.php:270
+msgid "Settings saved."
+msgstr ""
+
+#: helpfulnessmeter.php:276
+msgid "HelpfulnessMeter Options"
+msgstr ""
+
+#: helpfulnessmeter.php:279
+msgid ""
+"The HelpfulnessMeter widget will automatically appear at the end of the "
+"selected post types. Please choose the post types where you would like to "
+"display this widget."
+msgstr ""
+
+#: helpfulnessmeter.php:282
+msgid ""
+"Alternatively, you can manually display the widget anywhere in your content "
+"using the following shortcode: "
+msgstr ""
+
+#: helpfulnessmeter.php:285
+msgid ""
+"You may also need to list all content stats where the above shortcode is "
+"manually added, in that case I invite you to create a private page and paste "
+"the following shortcode to do so: "
+msgstr ""
+
+#: helpfulnessmeter.php:292
+msgid "Post Types"
+msgstr ""
+
+#: helpfulnessmeter.php:322
+msgid "Question"
+msgstr ""
+
+#: helpfulnessmeter.php:329
+msgid "Positive Answer"
+msgstr ""
+
+#: helpfulnessmeter.php:336
+msgid "Negative Answer"
+msgstr ""
+
+#: helpfulnessmeter.php:343
+msgid "Thank You Message for Positive Answer"
+msgstr ""
+
+#: helpfulnessmeter.php:350
+msgid "Thank You Message for Negative Answer"
+msgstr ""
+
+#: helpfulnessmeter.php:357
+msgid "Reset Statistics"
+msgstr ""
+
+#: helpfulnessmeter.php:430
+msgid "Content Title"
+msgstr ""
+
+#: helpfulnessmeter.php:430
+msgid "HelpfulnessMeter Statistics"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "HelpfulnessMeter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Improve your WordPress content by easily collecting feedback from your "
+"visitors."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ludovic S. Clain"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://ludovicclain.com"
+msgstr ""
